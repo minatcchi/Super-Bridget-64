@@ -8,7 +8,7 @@
 /**
  * File Select JP HUD Text
  */
-#define TEXT_JPHUD_MARIO _("マリオ")
+#define TEXT_JPHUD_MARIO _("ブリジット")
 #define TEXT_JPHUD_SELECT_FILE _("ファイルセレクト")
 #define TEXT_JPHUD_CHECK_FILE _("どのスコアをみる？")
 #define TEXT_JPHUD_COPY_FILE _("ファイルコピーする")

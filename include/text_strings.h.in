@@ -106,10 +106,10 @@
 #define TEXT_ERASE_FILE TEXT_JPHUD_ERASE_FILE
 #define TEXT_SOUND_SELECT TEXT_JPHUD_SOUND_SELECT
 
-#define TEXT_FILE_MARIO_A _("マリオＡ")
-#define TEXT_FILE_MARIO_B _("マリオＢ")
-#define TEXT_FILE_MARIO_C _("マリオＣ")
-#define TEXT_FILE_MARIO_D _("マリオＤ")
+#define TEXT_FILE_MARIO_A _("ブリジットＡ")
+#define TEXT_FILE_MARIO_B _("ブリジットＢ")
+#define TEXT_FILE_MARIO_C _("ブリジットＣ")
+#define TEXT_FILE_MARIO_D _("ブリジットＤ")
 
 // Menu Options
 #define TEXT_SCORE _("スコア")
@@ -134,10 +134,10 @@
 // Score Menu
 #define TEXT_HI_SCORE _("ハイスコア")
 #define TEXT_MY_SCORE _("マイスコア")
-#define TEXT_SCORE_MARIO_A _("マリオＡ")
-#define TEXT_SCORE_MARIO_B _("マリオＢ")
-#define TEXT_SCORE_MARIO_C _("マリオＣ")
-#define TEXT_SCORE_MARIO_D _("マリオＤ")
+#define TEXT_SCORE_MARIO_A _("ブリジットＡ")
+#define TEXT_SCORE_MARIO_B _("ブリジットＢ")
+#define TEXT_SCORE_MARIO_C _("ブリジットＣ")
+#define TEXT_SCORE_MARIO_D _("ブリジットＤ")
 
 // Copy Menu
 #define TEXT_COPY_IT_TO_WHERE _("どこにコピーしますか？")
@@ -148,7 +148,7 @@
 #define TEXT_SURE _("ほんと？")
 #define TEXT_YES _("はい")
 #define TEXT_NO _("いいえ")
-#define TEXT_FILE_MARIO_A_JUST_ERASED _("マリオＡをけしました")
+#define TEXT_FILE_MARIO_A_JUST_ERASED _("ブリジットＡをけしました")
 
 /**
  * Menus Text (Pause, Course Completed)
@@ -179,15 +179,15 @@
 /**
  * Ending Peach cutscene text.
  */
-#define TEXT_FILE_MARIO_EXCLAMATION _("マリオ！！")
+#define TEXT_FILE_MARIO_EXCLAMATION _("ブリジット！！")
 #define TEXT_POWER_STARS_RESTORED _("おしろにスターが　もどったのね")
 #define TEXT_THANKS_TO_YOU _("みんな　あなたのおかげだわ！")
-#define TEXT_THANK_YOU_MARIO _("ありがとう　マリオ")
+#define TEXT_THANK_YOU_MARIO _("ありがとう　ブリジット")
 #define TEXT_SOMETHING_SPECIAL _("なにか　おれいをしなくちゃ・・")
 #define TEXT_LISTEN_EVERYBODY _("さあ　みんな")
 #define TEXT_LETS_HAVE_CAKE _("おいしいケーキを　やきましょう")
-#define TEXT_FOR_MARIO _("マリオの　ために・・・")
-#define TEXT_FILE_MARIO_QUESTION _("マリオ？")
+#define TEXT_FOR_MARIO _("ブリジットの　ために・・・")
+#define TEXT_FILE_MARIO_QUESTION _("ブリジット？")
 
 #endif
 
@@ -197,16 +197,16 @@
  * File Select Text
  */
 // Main Screens
-#define TEXT_MARIO _("MARIO") // View Score Menu
+#define TEXT_MARIO _("BRIDGET") // View Score Menu
 #define TEXT_SELECT_FILE _("SELECT FILE")
 #define TEXT_CHECK_FILE _("CHECK FILE")
 #define TEXT_COPY_FILE _("COPY FILE")
 #define TEXT_ERASE_FILE _("ERASE FILE")
 #define TEXT_SOUND_SELECT _("SOUND SELECT")
-#define TEXT_FILE_MARIO_A _("MARIO A")
-#define TEXT_FILE_MARIO_B _("MARIO B")
-#define TEXT_FILE_MARIO_C _("MARIO C")
-#define TEXT_FILE_MARIO_D _("MARIO D")
+#define TEXT_FILE_MARIO_A _("BRIDGET A")
+#define TEXT_FILE_MARIO_B _("BRIDGET B")
+#define TEXT_FILE_MARIO_C _("BRIDGET C")
+#define TEXT_FILE_MARIO_D _("BRIDGET D")
 
 // Menu Options
 #define TEXT_SCORE _("SCORE")
@@ -231,7 +231,7 @@
 // Score Menu
 #define TEXT_HI_SCORE _("HI SCORE")
 #define TEXT_MY_SCORE _("MY SCORE")
-// Score Mario Text ("☺" is the Mario face defined in the US/EU menu char table)
+// Score Bridget Text ("☺" is the Bridget face defined in the US/EU menu char table)
 #define TEXT_SCORE_MARIO_A _("☺A")
 #define TEXT_SCORE_MARIO_B _("☺B")
 #define TEXT_SCORE_MARIO_C _("☺C")
@@ -246,7 +246,7 @@
 #define TEXT_SURE _("SURE?")
 #define TEXT_YES _("YES")
 #define TEXT_NO _("NO")
-#define TEXT_FILE_MARIO_A_JUST_ERASED _("MARIO A JUST ERASED")
+#define TEXT_FILE_MARIO_A_JUST_ERASED _("BRIDGET A JUST ERASED")
 
 /**
  * Menus Text (Pause, Course Completed)
@@ -279,15 +279,15 @@
 /**
  * Ending Peach cutscene text.
  */
-#define TEXT_FILE_MARIO_EXCLAMATION _("Mario!")
+#define TEXT_FILE_MARIO_EXCLAMATION _("Bridget!")
 #define TEXT_POWER_STARS_RESTORED __("The power of the Stars is restored to the castle...")
 #define TEXT_THANKS_TO_YOU __("...and it's all thanks to you!")
-#define TEXT_THANK_YOU_MARIO __("Thank you, Mario!")
+#define TEXT_THANK_YOU_MARIO __("Thank you, Bridget!")
 #define TEXT_SOMETHING_SPECIAL __("We have to do something special for you...")
 #define TEXT_LISTEN_EVERYBODY _("Listen, everybody,")
 #define TEXT_LETS_HAVE_CAKE _("let's bake a delicious cake...")
-#define TEXT_FOR_MARIO _("...for Mario...")
-#define TEXT_FILE_MARIO_QUESTION _("Mario!")
+#define TEXT_FOR_MARIO _("...for Bridget...")
+#define TEXT_FILE_MARIO_QUESTION _("Bridget!")
 
 #endif
 
@@ -441,19 +441,19 @@
 // French
 #define TEXT_POWER_STARS_RESTORED_FR _("Grâce aux étoiles, le château a retrouvé ses pouvoirs...")
 #define TEXT_THANKS_TO_YOU_FR        _("...et ceci grâce à toi!")
-#define TEXT_THANK_YOU_MARIO_FR      _("Merci, Mario!")
+#define TEXT_THANK_YOU_MARIO_FR      _("Merci, Bridget!")
 #define TEXT_SOMETHING_SPECIAL_FR    _("Tu mérites une récompense...")
 #define TEXT_COME_ON_EVERYBODY_FR    _("Venez les amis...")
 #define TEXT_LETS_HAVE_CAKE_FR       _("Allons préparer un délicieux gâteau...")
-#define TEXT_FOR_MARIO_FR            _("...pour Mario...")
+#define TEXT_FOR_MARIO_FR            _("...pour Bridget...")
 // German
 #define TEXT_POWER_STARS_RESTORED_DE _("Die Macht der Sterne ruht wieder sicher im Schloss...")
 #define TEXT_THANKS_TO_YOU_DE        _("...und alles dank Deiner Hilfe!")
-#define TEXT_THANK_YOU_MARIO_DE      _("Vielen Dank, Mario!")
+#define TEXT_THANK_YOU_MARIO_DE      _("Vielen Dank, Bridget!")
 #define TEXT_SOMETHING_SPECIAL_DE    _("Wir haben eine Überraschung für Dich...")
 #define TEXT_COME_ON_EVERYBODY_DE    _("Hört alle her...")
 #define TEXT_LETS_HAVE_CAKE_DE       _("Laßt uns einen leckeren Kuchen backen...")
-#define TEXT_FOR_MARIO_DE            _("...für Mario...")
+#define TEXT_FOR_MARIO_DE            _("...für Bridget...")
 
 /**
  * Course Table names for Score Menu Save view

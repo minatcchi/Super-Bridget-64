@@ -1,6 +1,6 @@
 COURSE_ACTS(COURSE_BOB, _("　１　ボムへいの　せんじょう"),
        _("やまのうえの　ボムキング")    , _("はくねつ　ノコノコレース")    , _("そらのしままで　ぶっとべ"),
-       _("８まいの　あかコイン")        , _("そらにはばたけ　はねマリオ")  , _("ワンワンの　いぬごやで"))
+       _("８まいの　あかコイン")        , _("そらにはばたけ　はねブリジット")  , _("ワンワンの　いぬごやで"))
 
 COURSE_ACTS(COURSE_WF, _("　２　バッタンキングの　とりで"),
        _("いかりのバッタン　キング")    , _("とりでの　てっぺんへ")        , _("たいほうで　ひとっとび"),
@@ -65,7 +65,7 @@ SECRET_STAR(COURSE_PSS,      _("　　　ピーチのかくれスライダー"))
 SECRET_STAR(COURSE_COTMC,    _("　　　メタルスイッチの　たき"))
 SECRET_STAR(COURSE_TOTWC,    _("　　　はばたけ！はねスイッチへ"))
 SECRET_STAR(COURSE_VCUTM,    _("　　　おほりのとうめいスイッチ"))
-SECRET_STAR(COURSE_WMOTR,    _("　　　にじ　かける　はねマリオ"))
+SECRET_STAR(COURSE_WMOTR,    _("　　　にじ　かける　はねブリジット"))
 SECRET_STAR(COURSE_SA,       _("　　　おさかなと　いっしょ"))
 SECRET_STAR(COURSE_CAKE_END, _("　　　おいしいケーキ"))
 
