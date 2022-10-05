@@ -1777,7 +1777,7 @@ textures/segment2/segment2.05200.rgba16.png
 textures/segment2/segment2.05400.rgba16.png
 textures/segment2/segment2.05600.rgba16.png
 textures/segment2/segment2.05800.rgba16.png
-textures/segment2/segment2.05A00.rgba16.png
+#textures/segment2/segment2.05A00.rgba16.png
 textures/segment2/segment2.05C00.rgba16.png
 textures/segment2/segment2.05E00.rgba16.png
 textures/segment2/segment2.06000.rgba16.png
@@ -1983,7 +1983,7 @@ textures/segment2/segment2.08150.rgba16.png
 textures/segment2/segment2.081D0.rgba16.png
 textures/segment2/segment2.0F458.ia8.png
 textures/segment2/segment2.0FC58.ia8.png
-textures/segment2/segment2.10458.ia8.png
+#textures/segment2/segment2.10458.ia8.png
 textures/segment2/segment2.11458.ia8.png
 textures/segment2/segment2.11C58.rgba16.png
 textures/segment2/segment2.12458.rgba16.png
