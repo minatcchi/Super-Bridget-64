@@ -2101,7 +2101,7 @@ chan_end
 #layer_somethingon
 #layer_portamento 0x85, 39, 255
 layer_note1 38, 0x1e, 110
-layer_note1 39, 0x41, 110
+#layer_note1 39, 0x41, 110
 layer_end
 
 .sound_mario_uh:
