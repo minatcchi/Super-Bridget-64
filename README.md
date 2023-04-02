@@ -1,5 +1,7 @@
 #  Super Bridget 64
 
+![](https://i.imgur.com/mCCwNdg.jpg)
+
 This is based off HackerSM64 thanks for making things easier for barely able programmer bakas like me
 
 
